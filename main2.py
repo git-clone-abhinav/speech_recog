@@ -15,12 +15,8 @@ except:
     pass
 
 
-
-
-
 '''friend = pyttsx3.init()
 while True:
     speech = input("Say something :")
     friend.say(speech)
-    friend.runAndWait()
-'''
+    friend.runAndWait()'''
